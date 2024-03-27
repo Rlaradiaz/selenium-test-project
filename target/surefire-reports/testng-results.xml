@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-27T14:45:48 COT" name="Surefire suite" finished-at="2024-03-27T14:46:00 COT" duration-ms="12200">
+    <groups>
+    </groups>
+    <test started-at="2024-03-27T14:45:48 COT" name="Surefire test" finished-at="2024-03-27T14:46:00 COT" duration-ms="12200">
+      <class name="com.example.GoogleSearchTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.example.GoogleSearchTest@15761df8]" started-at="2024-03-27T14:45:48 COT" name="setUp" finished-at="2024-03-27T14:45:48 COT" duration-ms="786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchForCarsInLondon()[pri:0, instance:com.example.GoogleSearchTest@15761df8]" started-at="2024-03-27T14:45:48 COT" name="searchForCarsInLondon" finished-at="2024-03-27T14:46:00 COT" duration-ms="11307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchForCarsInLondon -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.example.GoogleSearchTest@15761df8]" started-at="2024-03-27T14:46:00 COT" name="tearDown" finished-at="2024-03-27T14:46:00 COT" duration-ms="89" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.example.GoogleSearchTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
